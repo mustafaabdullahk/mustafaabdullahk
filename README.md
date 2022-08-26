@@ -54,7 +54,7 @@ My working days tend to contain the same sorts of tasks, just in a different ord
 
 ## Finding me
 
-You can find me in various places both within GitLab and online.
+You can find me in various places both with github and online.
 
 * [LinkedIn](https://www.linkedin.com/in/mustafaabdullahk/)
 * [Twitter](https://twitter.com/mustafabdullahk)
