@@ -43,7 +43,7 @@ My working days tend to contain the same sorts of tasks, just in a different ord
 
 ## Communicating with me
 
-* I'm _always_ available for coffee chats. One of the benefits of working at GitLab is meeting people from across the world and I want to! **Don't be shy, add a coffee chat to my calendar.**
+* I'm _always_ available for coffee chats. **Don't be shy, add a coffee chat to my calendar.**
 * In general, I prefer Slack over Email for anything that doesn't belong in an Issue or Merge Request. I will often mark my email inbox as read and pick up tasks from my GitLab todo list.
 * **Don't hesitate to ask me anything.** If I can help, I will! For a quick response, find me on Slack during my working hours.
 
