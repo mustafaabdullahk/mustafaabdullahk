@@ -60,12 +60,3 @@ You can find me in various places both with github and online.
 * [Twitter](https://twitter.com/mustafabdullahk)
 
 Non-employees can drop me an email (mustafa.kus@sparsetechnology.com) and I'll try to respond as quickly as possible.
-
-
-| Work | Social |
-| ---- | ------ |
-| `#c++` | `#dog` |
-| `#micro_services` | `#mental_health_aware` |
-| `#f_graphql` | `#coffee-and-tea` |
-| `#development` | `#aeo2de` |
-| `#backend` | `#tr` |
